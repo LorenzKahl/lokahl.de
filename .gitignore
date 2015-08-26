@@ -1,5 +1,7 @@
 # General
 .DS_Store
+.htpasswd
+.htaccess
 
 # Sass
 .sass-cache/
